@@ -1,5 +1,38 @@
 # asurion-assessment
 
+## Dataset First Impressions
+- There is missing data
+- There are 3 sites (east, north, south)
+- There are 2 clients (A, B)
+- There are 16 supervisors
+  - Some seem to be mispelled
+    - ANDREEW instead of Andrew
+    - SARA instead of Sarah
+    - JORRGE instead of Jorge
+      - This could also be George
+    - JONATHAN instead of John
+- This data is taken over 5 weeks of time
+- Service time appears to be in seconds
+  - Ranges from 402 to 550
+  - 9 blanks out of 240 data points
+- Quality of service is scale 0-10
+  - Ranges from 4.3 - 9.3
+  - There are 6 blanks out of 240
+
+
+## Assignment First Impressions
+### Requirements
+1. Generate a presentation that can appeal to technical and non-technical people that describes my findings from the dataset
+2. Create a list of probing questions/opportunities for the business units to follow to try and improve service
+3. Provide code used to perform the analysis
+
+## Assumptions
+1. These are the only supervisors and agents for this region
+2. We are not missing data
+3. These supervisors and agents work with similar customer demographics so the data is not skewed by servicing in Dallas vs Chicago
+
+
+
 - The core of my findings so far, the customer B has a greater opportunity for improvement in service. 
 Usually if a customer is dissatisfied, it is more than just a service time.
 - We should meet with the customer to discuss the issues
