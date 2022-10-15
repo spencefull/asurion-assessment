@@ -33,10 +33,11 @@
 
 
 
-- The core of my findings so far, the customer B has a greater opportunity for improvement in service. 
-Usually if a customer is dissatisfied, it is more than just a service time.
-- We should meet with the customer to discuss the issues
-  - If its as simple as service time, we need to get our faster/more experienced people working more consistently with them to make them happy
+# Findings
+- The core of my findings so far, the customer B has the worst service, so the largest opportunity for improvement. 
+  - Usually if a customer is dissatisfied, it is more than just a service time.
+  - We should meet with the customer to discuss the issues
+    - If its as simple as service time, we need to get our faster/more experienced people working more consistently with them to make them happy
     - This can come at reduced happiness of the already happy customer, but it depends on priorities
 - The South site has a bigger opportunity for improvement on times.
   - This could be handled one of two ways
@@ -47,6 +48,7 @@ Usually if a customer is dissatisfied, it is more than just a service time.
     - Focus efforts/training on the South site to get them faster and more efficient
 
 
+# Next Steps
 - Now that I understand the data at a cursory glance, and I have next steps labeled out, some other interesting things to do:
   - Build a predictive model that could say, based on the variables given, what quality score should you expect
   - Then it could tell you that based on the variables the Agent controls, what they can do to get a higher score
