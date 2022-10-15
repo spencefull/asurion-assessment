@@ -57,5 +57,5 @@
 - For those statistical nerds like me out there,
 - I would want to use feature reduction to try and simplify the model and remove redundancies with the correlated data
 - There is only one variable in their control at this point in time so that is time.
-    # It would show the expected score based on the windows seen in the plotted graph
-    # I also know better than to make the expected score an exact value. It would be an "expected" range
+  - It would show the expected score based on the windows seen in the plotted graph
+  - I also know better than to make the expected score an exact value. It would be an "expected" range
